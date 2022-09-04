@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/js/main.841ce7bd.chunk.js",
+    "main.js.map": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/js/main.841ce7bd.chunk.js.map",
+    "runtime-main.js": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/js/runtime-main.a08e82a4.js",
+    "runtime-main.js.map": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/js/runtime-main.a08e82a4.js.map",
+    "static/js/2.caa10938.chunk.js": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/js/2.caa10938.chunk.js",
+    "static/js/2.caa10938.chunk.js.map": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/js/2.caa10938.chunk.js.map",
+    "index.html": "https://dipeshvishwakarma.github.io/csb-kx91gp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.caa10938.chunk.js.LICENSE.txt": "https://dipeshvishwakarma.github.io/csb-kx91gp/static/js/2.caa10938.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a08e82a4.js",
+    "static/js/2.caa10938.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.841ce7bd.chunk.js"
+  ]
+}
